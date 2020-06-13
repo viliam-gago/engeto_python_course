@@ -1,0 +1,14 @@
+MAIN FILE - hr_system2
+
+- prints menu & contains homepage function, where you choose what the script should do
+
+- function main() - main loop, acts based on choices above
+--inside are imported custom modules
+--implemented functions for cleaning command window, shortcut to menu(CTRL + C)
+--database is imported from database_data.py (where transformed into optional format); at the end of a loop ->
+    -> updated database (unchanged/updated) is rewrited into employee.json
+
+- json file was created manually, without using function
+
+
+
