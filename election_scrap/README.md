@@ -5,3 +5,5 @@ Main tool used for the task above was Python Beautiful Soup library. Votes of ea
 by using Pandas and Matplotlib libraries
 
 [web source](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
+
+At this page, you first have to choose the district by the X key in the column Výber obce (on the right). So for when you choose i.e. district Příbram you then have to choose the municipality. This time you choose by the number of the municipality (column číslo on the left). So, i.e. Dobříš will have the number 540111.
